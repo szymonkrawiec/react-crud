@@ -1,0 +1,111 @@
+.product {
+    margin-left: 4%;
+    font-size: 23px;
+    margin-bottom: -25px;
+    font-family: "Segoe UI";
+}
+
+.button-box {
+    text-align: right;
+    margin-right: 6%;
+}
+
+.shadow {
+    padding: 4px;
+    border: 0;
+    box-shadow: 0 0 6px 2px rgba(99, 99, 104, 0.989);
+}
+
+.button-box button {
+    margin-right: 10px;
+    text-align: right;
+}
+
+
+.line {
+    width: 90%;
+    text-align: left;
+    margin-left: 4%;
+    margin-bottom: 1.5%;
+}
+
+
+.marginleftA {
+    margin-left: 4%;
+}
+
+.labelSpace {
+
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.teest {
+    margin: 0;
+    display: inline-block;
+}
+
+.spaceonTop {
+    margin-top: 300px;
+}
+
+.buttonsd {
+    background-color: #e1ecf4;
+    border: 1px solid #7aa7c7;
+    color: #39739d;
+    cursor: pointer;
+    font-family: "Segoe UI";
+    padding: 3px .3em;
+}
+
+.buttonsd:hover {
+    background-color: #b3d3ea;
+    color: #2c5777;
+}
+
+.select {
+    width: 110px;
+    height: 30px;
+    cursor: pointer;
+    background-color: white;
+    box-shadow: 0 2px 0 white;
+    border-radius: 2px;
+}
+
+.labbel {
+    text-align: bottom;
+    vertical-align: middle;
+}
+
+.message {
+    width: 80%;
+    margin: 0 auto;
+    padding: 2px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+.error {
+    background-color: rgba(237, 175, 180, 0.227);
+
+}
+
+.error strong {
+    color: #db6e6e;
+}
+
+.message2 {
+    width: 80%;
+    margin: 0 auto;
+    padding: 2px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: -24%;
+    background-color: rgba(237, 175, 180, 0.227);
+}
